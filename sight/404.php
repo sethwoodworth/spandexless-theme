@@ -1,6 +1,4 @@
 <?php get_header(); ?>
-
-
 <div class="content-title">
     404! We couldn't find the page!
 </div>
@@ -12,7 +10,5 @@
         </div>
     </div>
 </div>
-
-
 
 <?php get_footer(); ?>

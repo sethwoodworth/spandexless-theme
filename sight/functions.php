@@ -854,5 +854,4 @@ function next_posts_attributes(){
     return 'class="nextpostslink"';
 }
 add_filter('next_posts_link_attributes', 'next_posts_attributes');
-
 ?>
